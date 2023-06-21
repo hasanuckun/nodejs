@@ -8,7 +8,7 @@ image:
   repository: us-central1-docker.pkg.dev/terraform-project-uckunski/nodejs/nodejs
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1"
+  tag: "1.0.0"
 
 imagePullSecrets: []
 nameOverride: ""
